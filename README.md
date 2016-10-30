@@ -99,8 +99,7 @@ $("#tree")
 
 
 ## Examples
-
-<script async src="//jsfiddle.net/Skorunka/0mxyg2d4/4/embed/"></script>
+https://jsfiddle.net/Skorunka/0mxyg2d4/4/
 
 ## Credits
 https://rachel53461.wordpress.com/2014/04/20/algorithm-for-drawing-trees/
