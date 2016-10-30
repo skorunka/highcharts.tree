@@ -9,7 +9,7 @@
 		'use strict';
 
 		if(typeof(window.Tree) != "function"){
-			window.alert("Highcharts tree chart requires Tree plogin to be loaded first.");
+			window.alert("Highcharts tree chart requires Tree plugin to be loaded first.");
 			return false;
 		}
 
