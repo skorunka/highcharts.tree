@@ -101,5 +101,13 @@ $("#tree")
 ## Examples
 https://jsfiddle.net/Skorunka/0mxyg2d4/4/
 
+## Todo
+If anyone interested:
+
+* Expose as a bower/npm package
+* Build and minification
+* Better docs, more examples
+* Add customizable node renderer 
+
 ## Credits
 https://rachel53461.wordpress.com/2014/04/20/algorithm-for-drawing-trees/
