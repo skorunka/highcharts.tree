@@ -34,9 +34,10 @@ $(function () {
 
     var treeChartData = {
         tree: treeData,
-        legends: [{ type: "money", text: "Legend 1" },
+        legends: [
+			{ text: "Legend 1", type: "money" },
             { text: "Legend 2" },
-            { type: "percentage", text: "Legend 3" }]
+            { text: "Legend 3", type: "percentage" }]
     };
 
     $("#tree")
@@ -48,8 +49,7 @@ $(function () {
             series: [{ data: [treeChartData] }],
             title: { text: false },
             credits: { enabled: false },
-            exporting: { enabled: true },
-            colors: ["#74D0C5", "#F2AC54", "#ECD868"]
+            exporting: { enabled: true }
         });
 });
 ```
