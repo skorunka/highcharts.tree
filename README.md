@@ -5,6 +5,8 @@ Tree chart for Highcharts.
 
 Include:
 ```html
+	<script src="https://code.highcharts.com/highcharts.js"></script>
+	<script src="https://code.highcharts.com/modules/exporting.js"></script>
     <script src="tree.js"></script>
     <script src="highcharts.tree.js"></script>
 ```
@@ -105,7 +107,7 @@ https://jsfiddle.net/Skorunka/0mxyg2d4/4/
 If anyone interested:
 
 * Expose as a bower/npm package
-* Build and minification
+* Build and minification, merge into one file
 * Better docs, more examples
 * Add customizable node renderer 
 
