@@ -1,0 +1,16 @@
+    {
+  "name": "highcharts.tree",
+  "homepage": "https://github.com/skorunka/highcharts.tree",
+  "authors": [
+    "Frantisek Skorunka <skorunka@outlook.com>"
+  ],
+  "description": "Tree chart for Highcharts charting library.",
+  "main": "highcharts.tree.js",
+  "keywords": [
+    "highcharts",
+    "tree",
+    "chart",
+    "orgchart"
+  ],
+  "license": "MIT"
+}
