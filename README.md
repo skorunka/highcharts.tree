@@ -95,7 +95,7 @@ $("#tree")
 	.highcharts({
 		chart: {
 			type: "tree",
-			config: { currencySymbol: "EUF" }
+			config: { currencySymbol: "EUR" }
 		},
 ```
 
