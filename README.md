@@ -95,13 +95,17 @@ $("#tree")
 	.highcharts({
 		chart: {
 			type: "tree",
-			config: { currencySymbol: "EUF" }
+			config: { currencySymbol: "EUR" }
 		},
 ```
 
 
 ## Examples
-https://jsfiddle.net/Skorunka/0mxyg2d4/4/
+Init tree with TreeRow class
+https://jsfiddle.net/Skorunka/94d1g58s/
+
+Init tree chart with JSON and tree reresh
+https://jsfiddle.net/Skorunka/809kvwwz/
 
 ## Todo
 If anyone interested:
