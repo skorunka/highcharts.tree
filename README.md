@@ -5,8 +5,8 @@ Tree chart for Highcharts.
 
 Include:
 ```html
-	<script src="https://code.highcharts.com/highcharts.js"></script>
-	<script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
     <script src="tree.js"></script>
     <script src="highcharts.tree.js"></script>
 ```
